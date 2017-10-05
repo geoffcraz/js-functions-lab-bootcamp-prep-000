@@ -1,5 +1,6 @@
 function happyHolidays() {
-  return "Happy holidays!"
+  var message = "Happy holidays!"
+  return (message)
 
 }
 
